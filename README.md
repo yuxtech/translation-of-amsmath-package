@@ -1,1 +1,1 @@
-# translation-of-amsmath-package
+# amsmath包的中文翻译
