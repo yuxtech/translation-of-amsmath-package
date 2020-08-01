@@ -1,0 +1,1 @@
+# translation-of-amsmath-package
